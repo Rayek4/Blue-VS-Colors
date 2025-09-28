@@ -24,7 +24,7 @@ https://play.google.com/store/apps/details?id=com.ROBED.BuleVSColors
   <img src="docs/screenshot-3.png" width="280">
 </p>
 
-[![Watch the video](docs/screenshot-3.png)](https://youtube.com/shorts/sKUxP6k_Bls?feature=share)
+[![Watch the video](docs/screenshot-3.png)](https://youtube.com/shorts/3IWRxz4Z0Mk?feature=share)
 
 ---
 
